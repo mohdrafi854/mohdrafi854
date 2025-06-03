@@ -39,6 +39,8 @@
 Here are a few projects I'm proud of:
 
 - 🔥 [WorkAsana](https://github.com/mohdrafi854/workasana) — Productivity App (MERN)
+- 🔥 [Anvaya](https://github.com/mohdrafi854/anvaya-crm-frontend) — Productivity App (MERN)
+- 🔥 [Meetup](https://github.com/mohdrafi854/meetupAppFrontend) — Productivity App (MERN)
 - 🛍️ [E-Commerce Backend](https://github.com/mohdrafi854/ecommerce-backend) — Node.js + MongoDB
 
 ---
